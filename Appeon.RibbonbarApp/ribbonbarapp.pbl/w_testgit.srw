@@ -31,12 +31,12 @@ destroy(this.cb_1)
 end on
 
 type cb_1 from commandbutton within w_testgit
-integer x = 704
-integer y = 240
-integer width = 402
-integer height = 112
+integer x = 594
+integer y = 160
+integer width = 581
+integer height = 236
 integer taborder = 10
-integer textsize = -10
+integer textsize = -20
 integer weight = 400
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
