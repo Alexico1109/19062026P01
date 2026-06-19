@@ -57,6 +57,9 @@ string facename = "Tahoma"
 string text = "TEST 1"
 end type
 
+event clicked;messagebox(this.classname(),"Boton 001 DEV01")
+end event
+
 type cb_2 from commandbutton within w_testgit
 integer x = 622
 integer y = 444
